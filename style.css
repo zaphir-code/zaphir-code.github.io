@@ -1,0 +1,11 @@
+pre[class*="language-"]:before,
+pre[class*="language-"]:after {
+    display: none;
+}
+@font-face {
+    font-family: 'Lora';
+    src: url("fonts/static/Lora-Regular.ttf");
+}
+body{
+    font-family: 'Lora';
+}
